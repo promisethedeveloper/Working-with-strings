@@ -23,3 +23,6 @@ console.log(name.slice(name.indexOf(' ') + 1));
 
 // Getting the last name
 console.log(name.slice(name.lastIndexOf(' ') + 1));
+
+// Getting the last name from the back
+console.log(name.slice(-5))
